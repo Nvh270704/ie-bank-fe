@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: prodrigano-fe-dev
-  FRONTEND_WEBAPP_UAT: prodrigano-fe-uat
+  FRONTEND_WEBAPP_DEV: nvalderrama-fe-dev
+  FRONTEND_WEBAPP_UAT: nvalderrama-fe-uat
 
 jobs:
   build:
